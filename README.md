@@ -1,4 +1,4 @@
-# dsp-ex-3
+# dsp-ex-5
 class Node:
     def __init__(self, coeff, power):
         self.coeff = coeff
