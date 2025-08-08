@@ -1,5 +1,4 @@
 # dsp-ex-3
-array implementation of stack
 class Node:
     def __init__(self, coeff, power):
         self.coeff = coeff
